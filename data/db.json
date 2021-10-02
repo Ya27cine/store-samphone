@@ -2,12 +2,12 @@
     "screen":[
                 {
                     "id": 1,
-                    "Marque": "IPHONE",
-                    "Modele": "A645",
-                    "Libelle": "iPhone 7",
+                    "Marque": "HUAWEI",
+                    "Modele": "LM64",
+                    "Libelle": "P20 PRO",
                     "Ttpe": "TFT",
                     "Color": "Black",
-                    "Prix": 25
+                    "Prix": 49
                 },
                 {
                     "id": 1,
