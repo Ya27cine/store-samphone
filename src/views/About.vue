@@ -6,9 +6,12 @@
       Toulouse, 31400 France
     </h4>
 <hr>
-    <h3>KHELIFA Yassine</h3>
-        <h3>Allaf Yacine</h3>
-        <hr>
+    <ul>
+      <li>KHELIFA Yassine</li>
+      <li>Allaf Yacine</li>
+    </ul>
+
+ <hr>
 
   </div>
 </template>

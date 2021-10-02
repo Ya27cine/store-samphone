@@ -2,6 +2,8 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 import About from '../views/About.vue'
 import Screen from '../views/screen'
+import Show from '../views/screen/show'
+
 
 
 const routes = [
@@ -19,6 +21,12 @@ const routes = [
     path: '/screen',
     name: 'Screen',
     component: Screen
+  },
+  {
+    path: '/show/:marque',
+    name: 'Show',
+    component: Show,
+    props: true
   }
 ]
 
