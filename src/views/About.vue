@@ -1,5 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>SAMPHONE REPARATION</h1>
+    <h4>
+      Address: 134 Grande Rue Saint-Michel, <br>
+      Toulouse, 31400 France
+    </h4>
   </div>
 </template>

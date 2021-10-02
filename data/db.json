@@ -1,0 +1,31 @@
+{
+    "screen":[
+                {
+                    "id": 1,
+                    "Marque": "IPHONE",
+                    "Modele": "A645",
+                    "Libelle": "iPhone 7",
+                    "Ttpe": "TFT",
+                    "Color": "Black",
+                    "Prix": 25
+                },
+                {
+                    "id": 1,
+                    "Marque": "SAMSUNG",
+                    "Modele": "SM645",
+                    "Libelle": "Galaxy S9",
+                    "Ttpe": "Oled",
+                    "Color": "Black",
+                    "Prix": 175
+                },
+                {
+                    "id": 1,
+                    "Marque": "IPHONE",
+                    "Modele": "A6095",
+                    "Libelle": "iPhone XR",
+                    "Ttpe": "TFT",
+                    "Color": "Black",
+                    "Prix": 85
+                }
+    ]
+}
